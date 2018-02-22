@@ -1,0 +1,1 @@
+::download all the files from money.rediff through available links in C:\My Program Files\Python\Python35-32\work\nse\rediff_nifty50
